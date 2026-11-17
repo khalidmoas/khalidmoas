@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/engineering-portfolio-banner.png"
+  <img src="engineering-portfolio-banner.png"
        width="100%"
        alt="Khalid Ahmad Engineering Portfolio">
 </div>

@@ -1,4 +1,15 @@
 <div align="center">
+  <img src="assets/engineering-portfolio-banner.png"
+       width="100%"
+       alt="Khalid Ahmad Engineering Portfolio">
+</div>
+
+<br>
+
+# Khalid Ahmad
+
+### Embedded Systems | AI | Computer Vision | UAV & Robotics
+<div align="center">
 
 # Khalid Ahmad
 
